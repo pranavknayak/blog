@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: μ-derings
+date: 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a blank Quartz installation.  
+Testing push features  
+What even is quartz anyway.  
