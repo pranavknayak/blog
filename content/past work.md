@@ -1,4 +1,4 @@
 ---
-title: Past Work
+title: past work
 ---
-whoopsie, nothing here right now
+hey there! I've yet to populate this entry, but stay tuned :).
