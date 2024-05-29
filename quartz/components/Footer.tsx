@@ -25,6 +25,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p>best viewed in lightmode</p>
       </footer>
     )
   }
