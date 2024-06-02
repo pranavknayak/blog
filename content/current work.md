@@ -6,6 +6,7 @@ draft: false
 ## Textbooks
 
 -  Statistical Inference - Casella & Berger
+	- Probability Theory (Notes for STAT310) - Amir Dembo (once I've finished the above).
 -  Learning Theory from First Principles - Francis Bach
 
 ## Papers
