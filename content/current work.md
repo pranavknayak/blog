@@ -26,3 +26,5 @@ draft: false
 I've spent the last few weeks reading Samantha Shannon's *The Priory of the Orange Tree*. It's been a very engaging read so far, and has successfully scratched my high-fantasy itch.
 ### Non-fiction
 I'm working through Ha-Joon Chang's *Economics: The User's Guide*. I've had a bunch of false starts with the book before, but I'm hoping that this time I actually manage to power through to the end.
+
+For a log of what I *plan* on studying, check out my [[reading list]].
