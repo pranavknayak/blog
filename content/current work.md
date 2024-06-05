@@ -15,10 +15,11 @@ Also, I am interspersing my studies in these fundamentals with studies in learni
 
 ## Papers
 
--  [TVSPrune](https://openreview.net/forum?id=sZI1Oj9KBKy) - Murti et al.
--  [DFPC](https://openreview.net/forum?id=mhnHqRqcjYU)- Narshana et al.
--  [Sparsity in Deep Learning](https://jmlr.org/papers/volume22/21-0366/21-0366.pdf) - Hoefler et al.
--  [The Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635) - Frankle & Carbin
+- [x]   [TVSPrune](https://openreview.net/forum?id=sZI1Oj9KBKy) - Murti et al.
+- [x]  [DFPC](https://openreview.net/forum?id=mhnHqRqcjYU)- Narshana et al.
+- [x] [Sparsity in Deep Learning](https://jmlr.org/papers/volume22/21-0366/21-0366.pdf) - Hoefler et al.
+	- first pass done, a second, more detailed read through all of these is due. 
+- [ ]  [The Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635) - Frankle & Carbin
 
 ## Projects
 - Transformer Compositionality - working with Prof. [Konda Reddy Mopuri](https://krmopuri.github.io/) and Prof. [Sumohana Channappayya](https://people.iith.ac.in/sumohana/) on understanding how representations compose from primitives in transformers.
@@ -27,7 +28,7 @@ Also, I am interspersing my studies in these fundamentals with studies in learni
 ## Reading
 
 ### Fiction
-I've spent the last few weeks reading Samantha Shannon's *The Priory of the Orange Tree*. It's been a very engaging read so far, and has successfully scratched my high-fantasy itch.
+I've finished *Priory*, and have moved on to Mistborn. I've already read through the first trilogy before, but that was years ago, so I'm planning on giving the entire series (7 books + novellas) a read, and have started with *The Final Empire*.
 ### Non-fiction
 I'm working through Ha-Joon Chang's *Economics: The User's Guide*. I've had a bunch of false starts with the book before, but I'm hoping that this time I actually manage to power through to the end.
 
