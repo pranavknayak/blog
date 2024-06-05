@@ -4,9 +4,13 @@ draft: false
 ---
 
 ## Textbooks
+Everything I've heard and all the talks I've listened to kind of hinted that if I want to contribute seriously to ML Theory, I would have to come into the field with a foundational perspective. With that in mind, I am currently focusing on making sure that my grounding in statistics, and in computational complexity, are both bulletproof. Here are the books I'm using to achieve that:
 
 -  Statistical Inference - Casella & Berger
 	- Probability Theory (Notes for STAT310) - Amir Dembo (once I've finished the above).
+- Mathematics and Computation - Avi Wigderson
+
+Also, I am interspersing my studies in these fundamentals with studies in learning theory, so that I don't lose touch with the end goal:
 -  Learning Theory from First Principles - Francis Bach
 
 ## Papers
