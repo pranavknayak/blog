@@ -18,6 +18,7 @@ Also, I am interspersing my studies in these fundamentals with studies in learni
 - [x]   [TVSPrune](https://openreview.net/forum?id=sZI1Oj9KBKy) - Murti et al.
 - [x]  [DFPC](https://openreview.net/forum?id=mhnHqRqcjYU)- Narshana et al.
 - [x] [Sparsity in Deep Learning](https://jmlr.org/papers/volume22/21-0366/21-0366.pdf) - Hoefler et al.
+
 	- first pass done, a second, more detailed read through all of these is due. 
 - [ ]  [The Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635) - Frankle & Carbin
 
