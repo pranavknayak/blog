@@ -21,6 +21,7 @@ Also, I am interspersing my studies in these fundamentals with studies in learni
 
 	- first pass done, a second, more detailed read through all of these is due. 
 - [ ]  [The Lottery Ticket Hypothesis](https://arxiv.org/pdf/1803.03635) - Frankle & Carbin
+- EfficientNet post is underway: [[efficientnet]]. 
 
 ## Projects
 - Transformer Compositionality - working with Prof. [Konda Reddy Mopuri](https://krmopuri.github.io/) and Prof. [Sumohana Channappayya](https://people.iith.ac.in/sumohana/) on understanding how representations compose from primitives in transformers.
