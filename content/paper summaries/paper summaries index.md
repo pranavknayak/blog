@@ -1,1 +1,1 @@
-- [[content/paper summaries/efficientnet]]
+- [[efficientnet]]
