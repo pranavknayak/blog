@@ -30,10 +30,10 @@ The following might seem ambitious, but keep in mind that I have no time horizon
 	- Mohri - Foundations of Machine Learning  
 	  The standard, from what I can tell. I should read it, if for no other reason than to have a solid grasp on learning theory.
 - Theoretical CS
-	- CLRS  - Introduction to Algorithms
+	- CLRS  - Introduction to Algorithms  
 	  This is probably my most ambitious read on the list [^1], and I understand there is some foolishness involved in attempting to read a reference text as a textbook. I do, however, care about having my knowledge of things be bulletproof. I *really* do not want to have to discover halfway through a PhD that my foundations are shaky, and I can think of no way to shore up my algorithmic foundations than fully digesting CLRS.
 	- Motwani and Raghavan - Randomized Algorithms
-	- Knuth - All of TAOCP
+	- Knuth - All of TAOCP  
 	  I should probably have a separate page just tracking my progress through this monster. And maybe a party for when I finish whatever's been published up to that point. 
 ## Courses
 
