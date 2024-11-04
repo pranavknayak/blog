@@ -4,6 +4,8 @@ draft: false
 ---
 This counts as a TBR, except that it's not just books, papers, and articles I will be listing down here. There are also movies, TV shows, and other forms of content I think are worth putting on the list.
 
+This list is largely unstructured, so for a concrete roadmap of what I plan to do, check out the [[roadmap]] page.
+
 # Academic
 The following might seem ambitious, but keep in mind that I have no time horizon in mind for when I desire to finish what's on the list. These are (extremely) long-term goals.
 
